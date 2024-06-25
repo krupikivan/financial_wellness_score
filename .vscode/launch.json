@@ -1,0 +1,12 @@
+{
+    "configurations": [
+      {
+        "name": "Financial APP",
+        "type": "dart",
+        "request": "launch",
+        "program": "lib/main.dart",
+        "args": []
+      }
+    ]
+  }
+  
